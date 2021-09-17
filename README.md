@@ -1,4 +1,4 @@
-# benchmark-cv
+# openfed-cv
 
 Coming soon...
 
