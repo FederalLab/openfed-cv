@@ -1,29 +1,16 @@
 # benchmark-cv
 
-## mmgeneration
+Coming soon...
 
-## mmdetection3d
+## Citation
 
-## mmdetection
+If you find this project useful in your research, please consider cite:
 
-## mmtracking
-
-## mmpose
-
-## mmsegmentation
-
-## mmclassification
-
-## mmaction2
-
-## mmocr
-
-## mmediting
-
-## mmfashion
-
-## mmskeleton
-
-## mmaction
-
-## mmstyles
+```
+@misc{OpenFed,
+Author = {Chen Dengsheng},
+Title = {OpenFed: An Open-Source Security and Privacy Guaranteed Federated Learning Framework},
+Year = {2021},
+Eprint = {arXiv:2109.07852},
+}
+```
